@@ -11,8 +11,6 @@ The aim of DVSA is to **practice some of the most common serverless vulnerabilit
 Please note, there are **both documented and undocumented vulnerabilities** with this software. This is intentional. You are encouraged to try and discover as many issues as possible.
 
 
-
-
 - - -
 ## Disclaimer
 
