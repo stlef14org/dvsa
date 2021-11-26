@@ -16,6 +16,8 @@ jobs:
   scan_job:
     name: Boost Security Scanner
     runs-on: ubuntu-latest
+    env:
+       BOOST_LOG_LEVEL: DEBUG
     steps:
       - name: Checkout
         uses: actions/checkout@v2
